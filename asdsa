@@ -1,0 +1,31 @@
+[{"artist" : [
+    {"artist_id":"a1","Name":"artist1","YOB":1899,"country":"india"},
+    {"artist_id":"a2","Name":"artist2","YOB":1775,"country":"france"},
+    {"artist_id":"a3","Name":"artist3","YOB":1985,"country":"uk"},
+    {"artist_id":"a4","Name":"artist4","YOB":1665,"country":"usa"}
+    ]
+},
+{"art":[
+    {"art_id":"b1","art_name":"art 1","year":1903,"artist_id":"a1"},
+    {"art_id":"b2","art_name":"art 2","year":1803,"artist_id":"a1"},
+    {"art_id":"b3","art_name":"art 3","year":2003,"artist_id":"a1"},
+    {"art_id":"b4","art_name":"art 4","year":1703,"artist_id":"a2"},
+    {"art_id":"b5","art_name":"art 5","year":1813,"artist_id":"a2"},
+    {"art_id":"b6","art_name":"art 6","year":1730,"artist_id":"a2"},
+    {"art_id":"b7","art_name":"art 7","year":1603,"artist_id":"a3"},
+    {"art_id":"b8","art_name":"art 8","year":2000,"artist_id":"a3"},
+    {"art_id":"b9","art_name":"art 9","year":1999,"artist_id":"a3"},
+    {"art_id":"b10","art_name":"art 10","year":1654,"artist_id":"a4"},
+    {"art_id":"b11","art_name":"art 11","year":1728,"artist_id":"a4"},
+    {"art_id":"b12","art_name":"art 12","year":1892,"artist_id":"a4"},
+    {"art_id":"b13","art_name":"art 13","year":1821,"artist_id":"a1"},
+    {"art_id":"b14","art_name":"art 14","year":2012,"artist_id":"a1"},
+    {"art_id":"b15","art_name":"art 15","year":2021,"artist_id":"a2"},
+    {"art_id":"b16","art_name":"art 16","year":2011,"artist_id":"a1"},
+    {"art_id":"b17","art_name":"art 17","year":1908,"artist_id":"a3"},
+    {"art_id":"b18","art_name":"art 18","year":1906,"artist_id":"a1"},
+    {"art_id":"b19","art_name":"art 19","year":1811,"artist_id":"a4"},
+    {"art_id":"b20","art_name":"art 20","year":2015,"artist_id":"a1"}
+    ]
+
+}]
